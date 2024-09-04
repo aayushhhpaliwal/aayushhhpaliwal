@@ -1,11 +1,21 @@
 # Hi there, I'm Aayush Paliwal 👋
 
-I'm a professional Shopify and MERN Stack developer with over 3 years of experience in building robust and scalable web applications. My expertise extends to a wide range of technologies, and I'm constantly learning and evolving in this ever-changing field.
+I'm a professional **Shopify** and **MERN Stack** developer with over 3 years of experience in building robust and scalable web applications. My expertise in **Shopify** development allows me to create high-converting e-commerce websites tailored to my clients' needs, ensuring a seamless user experience. I'm also well-versed in customizing Shopify themes, working with Shopify Liquid, and integrating third-party apps to enhance store functionality.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushhhpaliwal)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ## 💼 What I Work With:
+- **Shopify Development:**
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?logo=shopify&logoColor=white" alt="Shopify Liquid" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
+  
+  I specialize in:
+  - **Custom Shopify Theme Development:** Crafting bespoke themes that align with brand identity.
+  - **Shopify Liquid:** Extensive experience in Shopify's templating language for dynamic content management.
+  - **E-commerce Optimization:** Enhancing site performance and user experience to boost conversion rates.
+  - **App Integration:** Seamlessly integrating third-party apps to extend Shopify store capabilities.
+
 - **Frontend:**
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React" />
@@ -26,11 +36,6 @@ I'm a professional Shopify and MERN Stack developer with over 3 years of experie
 
 - **State Management:**
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
-
-- **E-commerce Platforms:**
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?logo=shopify&logoColor=white" alt="Shopify Liquid" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
 
 - **Containerization:**
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
