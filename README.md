@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush Paliwal 👋
 
-I'm a professional MERN Stack developer with over 3 years of experience in building robust and scalable web applications. My expertise extends to a wide range of technologies, and I'm constantly learning and evolving in this ever-changing field.
+I'm a professional Shopify and MERN Stack developer with over 3 years of experience in building robust and scalable web applications. My expertise extends to a wide range of technologies, and I'm constantly learning and evolving in this ever-changing field.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushhhpaliwal)](https://github.com/ryo-ma/github-profile-trophy)
 
