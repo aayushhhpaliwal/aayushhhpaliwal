@@ -41,10 +41,7 @@ I'm a professional **Shopify** and **MERN Stack** developer with over 3 years of
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
 
 ## 🌍 Clients from Around the World:
-I am fortunate to work with clients from across the globe, helping them bring their ideas to life through my skills and expertise.
-
-## 📚 Learning with Earning:
-My journey is a continuous blend of learning and earning, where I strive to stay updated with the latest technologies while delivering high-quality solutions to my clients.
+I am fortunate to work with clients from across the globe, helping them bring their ideas to life through my skills and expertise. My journey is a continuous blend of learning and earning, where I strive to stay updated with the latest technologies while delivering high-quality solutions to my clients.
 
 ## 📫 Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
