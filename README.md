@@ -45,7 +45,7 @@ I am fortunate to work with clients from across the globe, helping them bring th
 
 ## 📫 Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/aayush-paliwal-9a2911b5/)
-- [Portfolio]([https://aayush-paliwal.vercel.app/))
+- [Portfolio]([https://aayush-paliwal.vercel.app/]))
 - [Email](aayushpaliwal653@gmail.com)
 
 Let's connect and create something amazing together!
