@@ -44,8 +44,8 @@ I'm a professional **Shopify** and **MERN Stack** developer with over 3 years of
 I am fortunate to work with clients from across the globe, helping them bring their ideas to life through my skills and expertise. My journey is a continuous blend of learning and earning, where I strive to stay updated with the latest technologies while delivering high-quality solutions to my clients.
 
 ## 📫 Get in Touch:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://www.yourportfolio.com)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/aayush-paliwal-9a2911b5/)
+- [Portfolio]([https://aayush-paliwal.vercel.app/))
+- [Email](aayushpaliwal653@gmail.com)
 
 Let's connect and create something amazing together!
