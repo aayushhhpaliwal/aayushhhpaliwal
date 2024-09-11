@@ -30,6 +30,7 @@ I'm a professional **Shopify** and **MERN Stack** developer with over 3 years of
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" />
+   <img src="https://img.shields.io/badge/REST--API-02569B?logo=rest&logoColor=white" alt="REST API" />
 
 - **Database:**
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB" />
