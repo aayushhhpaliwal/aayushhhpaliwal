@@ -1,6 +1,16 @@
 # 👋 Hi there, I'm Aayush Paliwal
 
-I'm a professional **Shopify** and **MERN Stack** developer with over **4 years of experience** in building robust, scalable web applications and high-converting eCommerce stores. My expertise in **Shopify** development allows me to create tailored storefronts with seamless UX and optimized performance. I'm also proficient in **Next.js**, **Liquid**, and **third-party app integrations**, making me a go-to full-stack developer for modern commerce.
+I'm a professional **Shopify** and **MERN Stack** developer with over **4 years of experience** in building robust, scalable web applications and high-converting eCommerce stores. I'm highly enthusiastic about emerging technologies like **Blockchain**, **Web3**, and **Rust**, and I constantly find time to explore and learn them for a better, future-proof development approach.
+
+Beyond coding, I’m passionate about **photography**, **traveling**, and seeking **adventures** that capture life's best moments. In my free time, you'll often find me playing **football** or **badminton** — hobbies that keep my mind sharp and energized.
+
+My expertise in **Shopify** development allows me to create tailored storefronts with seamless UX and optimized performance. I'm also proficient in **Next.js**, **Liquid**, and **third-party app integrations**, making me a go-to full-stack developer for modern commerce.
+
+I'm also proficient in **Adobe Creative Suite**, including:
+
+* **Photoshop** & **Illustrator** for graphics design
+* **Premiere Pro** & **After Effects** for video editing
+* **Figma** for collaborative UI/UX design
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushhhpaliwal)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -9,21 +19,24 @@ I'm a professional **Shopify** and **MERN Stack** developer with over **4 years 
 ## 💼 What I Work With:
 
 ### 🛒 Shopify Development:
+
 <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify" />
 <img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?logo=shopify&logoColor=white" alt="Shopify Liquid" />
 <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
 
 I specialize in:
-- **Custom Shopify Theme Development**: Crafting bespoke themes aligned with brand identity.
-- **Shopify Liquid**: Extensive experience with Shopify's templating language for dynamic content.
-- **E-commerce Optimization**: Conversion rate-optimized designs & UX improvements.
-- **App Integration**: Seamlessly integrating third-party and custom apps.
-- **Cart Drawer, Sticky ATC, Collection Sliders, Dynamic Sections**: Shopify UX enhancements.
-- **Headless Shopify**: Using Next.js for blazing-fast storefronts powered by Shopify Storefront API.
+
+* **Custom Shopify Theme Development**: Crafting bespoke themes aligned with brand identity.
+* **Shopify Liquid**: Extensive experience with Shopify's templating language for dynamic content.
+* **E-commerce Optimization**: Conversion rate-optimized designs & UX improvements.
+* **App Integration**: Seamlessly integrating third-party and custom apps.
+* **Cart Drawer, Sticky ATC, Collection Sliders, Dynamic Sections**: Shopify UX enhancements.
+* **Headless Shopify**: Using Next.js for blazing-fast storefronts powered by Shopify Storefront API.
 
 ---
 
 ### ⚛️ Frontend:
+
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,6 +49,7 @@ I specialize in:
 ---
 
 ### 🧠 Backend:
+
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white" alt="Express" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" />
@@ -44,16 +58,19 @@ I specialize in:
 ---
 
 ### 🗃️ Database:
+
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB" />
 
 ---
 
 ### ⚙️ State Management:
+
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
 
 ---
 
 ### 🐳 Containerization:
+
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
 
 ---
@@ -61,27 +78,32 @@ I specialize in:
 ## 🔥 Latest Projects
 
 ### 🔗 [CrispyFlavor – crispyflavor.com](https://crispyflavor.com/)
+
 **Shopify snack brand** with a fast, interactive UI. Custom cart drawer, sticky ATC, and A/B tested sections.
 
 ### 🔗 [MAE India – mae.in](https://mae.in/)
+
 Luxury skincare brand. Built Shopify store with brand-consistent visuals and Adobe Creative Suite assets.
 
 ### 🔗 [ActKo Lifestyle – actkolifestyle.co.uk](https://actkolifestyle.co.uk/)
+
 Figma-to-Shopify conversion with pixel-perfect design, responsive UX, and Shopify custom blocks.
 
 ### 🔗 [LittleBubi – littlebubi.com](https://littlebubi.com/)
+
 Developed a baby product Shopify store with warm visual appeal, collection sliders, and mobile-first UX.
 
 ### 🔗 [Christmas Joy Park – christmasjoypark.com](http://christmasjoypark.com/)
+
 Seasonal, high-traffic Shopify site with countdowns, bulk discount apps, and custom product templates.
 
 ---
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aayushhhpaliwal&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushhhpaliwal&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aayushhhpaliwal&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aayushhhpaliwal\&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushhhpaliwal\&layout=compact\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=aayushhhpaliwal\&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -94,9 +116,10 @@ I’ve had the privilege of working with clients from the US, UK, India, UAE, an
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/aayush-paliwal-9a2911b5/)
-- 🌐 [Portfolio](https://aayush-paliwal.vercel.app/)
-- 📧 [Email](mailto:aayushpaliwal653@gmail.com)
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/aayush-paliwal-9a2911b5/)
+* 🌐 [Portfolio](https://aayush-paliwal.vercel.app/)
+* 📧 [Email](mailto:aayushpaliwal653@gmail.com)
 
 ---
 
