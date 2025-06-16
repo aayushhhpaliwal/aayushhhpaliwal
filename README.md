@@ -87,14 +87,6 @@ Seasonal, high-traffic Shopify site with countdowns, bulk discount apps, and cus
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aayushhhpaliwal\&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushhhpaliwal\&layout=compact\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aayushhhpaliwal\&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🌍 Clients From Around the World
 
 I’ve had the privilege of working with clients from the US, UK, India, UAE, and more. Each project is a new opportunity to learn, grow, and deliver excellence.
