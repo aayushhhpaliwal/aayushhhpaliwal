@@ -14,9 +14,7 @@ My expertise in **Shopify** development allows me to create tailored storefronts
 
 ### 🛒 Shopify Development:
 
-<img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify" />
-<img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?logo=shopify&logoColor=white" alt="Shopify Liquid" />
-<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify" /> <img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?logo=shopify&logoColor=white" alt="Shopify Liquid" /> <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
 
 I specialize in:
 
@@ -31,23 +29,13 @@ I specialize in:
 
 ### ⚛️ Frontend:
 
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Material--UI-blue?logo=material-ui&logoColor=white" alt="Material-UI" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass" />
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Material--UI-blue?logo=material-ui&logoColor=white" alt="Material-UI" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass" /> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
 
 ---
 
 ### 🧠 Backend:
 
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" />
-<img src="https://img.shields.io/badge/REST--API-02569B?logo=rest&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" /> <img src="https://img.shields.io/badge/REST--API-02569B?logo=rest&logoColor=white" alt="REST API" />
 
 ---
 
@@ -71,10 +59,7 @@ I specialize in:
 
 ### 🎨 Design & Creative Tools:
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="Photoshop" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" alt="Illustrator" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" /> <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white" alt="After Effects" /> <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender" /> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
 
 ---
 
