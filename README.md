@@ -1,16 +1,10 @@
 # 👋 Hi there, I'm Aayush Paliwal
 
-I'm a professional **Shopify** and **MERN Stack** developer with over **4 years of experience** in building robust, scalable web applications and high-converting eCommerce stores. I'm highly enthusiastic about emerging technologies like **Blockchain**, **Web3**, and **Rust**, and I constantly find time to explore and learn them for a better, future-proof development approach.
+I'm a passionate **Shopify** and **MERN Stack** developer with over **4 years of experience** in building robust, scalable web applications and high-converting eCommerce stores. Enthusiastic about emerging technologies like **Blockchain**, **Web3**, **Rust**, and more, I constantly find time to explore and learn for a better future. Beyond tech, I enjoy **photography**, **traveling**, and **adventure activities**. My hobbies include playing **football** and **badminton**, which keep me energized and focused.
 
-Beyond coding, I’m passionate about **photography**, **traveling**, and seeking **adventures** that capture life's best moments. In my free time, you'll often find me playing **football** or **badminton** — hobbies that keep my mind sharp and energized.
+I am also proficient in **Adobe Creative Suite** tools for **graphics design**, **UI/UX**, **Figma**, and **video editing**, which allows me to bring brands to life with stunning visuals and functional design aesthetics.
 
 My expertise in **Shopify** development allows me to create tailored storefronts with seamless UX and optimized performance. I'm also proficient in **Next.js**, **Liquid**, and **third-party app integrations**, making me a go-to full-stack developer for modern commerce.
-
-I'm also proficient in **Adobe Creative Suite**, including:
-
-* **Photoshop** & **Illustrator** for graphics design
-* **Premiere Pro** & **After Effects** for video editing
-* **Figma** for collaborative UI/UX design
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushhhpaliwal)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -72,6 +66,15 @@ I specialize in:
 ### 🐳 Containerization:
 
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+
+---
+
+### 🎨 Design & Creative Tools:
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
 
 ---
 
